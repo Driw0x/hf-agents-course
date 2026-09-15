@@ -24,7 +24,7 @@ Les sujets abordés incluent :
 * `unit-2-frameworks/` — Expérimentations avec différents frameworks d’agents
 * `unit-3-agentic-rag/` — Implémentations de RAG agentique
 * `final-project/` — Projet final et évaluation
-* `notes/` — Notes personnelles et observations
+* `docs/` — Modèles et documentation générale
 
 ## Cours
 
