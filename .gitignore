@@ -1,0 +1,70 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Build / packaging
+build/
+dist/
+*.egg-info/
+
+# Hugging Face / ML caches
+.cache/
+huggingface/
+transformers/
+
+# Models / checkpoints
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+
+checkpoints/
+models/
+
+# Generated outputs
+outputs/
+runs/
+artifacts/
+
+# Local / generated data
+data/raw/
+data/cache/
+data/generated/
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
